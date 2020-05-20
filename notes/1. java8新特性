@@ -1,0 +1,15 @@
+1. java8新特性
+2. 说一下map的分类和常见的情况
+3. 说说Lamda表达式的优缺点。
+4. 讲讲什么是泛型？
+5. 谈谈如何通过反射创建对象？
+6. 接口和抽象类的区别是什么（abstract class和interface有什么区别?）？
+7. 面向对象的特征有哪些方面
+8. Static Nested Class 和 Inner Class的不同 https://blog.csdn.net/caixiexin/article/details/6876629
+9. 内部类可以引用他包含类的成员吗？有没有什么限制？
+10. 如何通过反射获取和设置对象私有字段的值？
+11. 谈一下面向对象的"六原则一法则"。
+12. 请问Query接口的list方法和iterate方法有什么区别？
+13. 
+
+
